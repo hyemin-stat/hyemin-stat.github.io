@@ -1,0 +1,18 @@
+---
+title:  "디렉토리 설정하기"
+excerpt: "os library사용하여 directory 설정하기"
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2020-05-01T12:00:00-05:00
+---
+
+# Code
+import os
+os.getcwd() # 현재 디렉토리 얻기
+os.chdir() # 작업 디렉토리 변경
+
+# Reference
+[파일과 디렉토리](http://pythonstudy.xyz/python/article/507-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC)
