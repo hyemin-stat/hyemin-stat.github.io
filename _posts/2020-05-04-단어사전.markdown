@@ -1,0 +1,75 @@
+---
+title:  "[배경 지식] 데이터 사이언티스트 배경 지식 사전 (Data Science Background Dictionary)"
+excerpt: "데이터 사이언티스트 배경 지식 사전 (계속 업데이트)"
+
+categories:
+  - Blog
+tags:
+  - Blog
+
+date: 2020-05-04 06:00:00 +0000
+last_modified_at: 2020-05-04 06:00:00 +0000
+---
+
+이 게시물은 Data Analysis를 수행하며 스스로 정리해보고 싶은 항목들을 정리해둔 목록입니다.
+해당 내용은 Link를 타고 가면 확인하실 수 있으며, Link가 없는 항목들의 명칭이나 분류는 정확하지 않습니다.
+정기적으로 Updeat될 예정입니다. 
+
+
+# 서버 (Server)
+- 하둡
+- DW / 하이브리드 DW /
+- ADW 데이터 (고객통합마트/서비스마트) / RDW / ADW에서 RDW로 데이터를 이행
+- 오라클 BDS
+- AI허브
+- Maria DB
+- 빅인사이트
+- AP
+- Downtime
+- 데이터 마트
+- As-is
+- DMZ
+- ADM 
+- ADW
+- CM 서버
+- SVN / 
+- Putty / Shh
+- IP / 컴퓨터 IP 주소 변경
+
+# 데이터 사이언스 (Data Science)
+- Lime
+- 비정형 데이터 분석
+- Word2Vec
+- Hierachical Clustering
+- t-SNE
+- Random Forest
+- Logistic Regression
+- LightGBM
+- Gradient Boosting Machine
+- R / Spark R
+- R 컨버젼
+- Mecab
+- 파싱
+- 메타 데이터
+- 정합성
+- 비식별처리
+- 권한 관리
+- 클래스 / 모듈
+- 도커
+- Pycharm
+- Tensorboard
+
+
+# 금융
+- 방카슈랑스
+
+# 기타
+- 소급 처리
+- SR (Service Requiest)
+- ETL
+- FIS
+- EAI
+- VDI
+- UX / UI
+- Pod
+- Java + Apache
