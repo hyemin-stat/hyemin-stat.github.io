@@ -14,6 +14,7 @@ last_modified_at: 2020-05-09 13:00:00 +0000
 - Researh Paper : 특정 실험/기법을 사용하여 개선 사례를 정리한 것
 - Review Paper : 특정 주제에 대한 전반적 지식 설명 혹은 특정 의견을 지지하기 위해 굵직한 논문을 모아놓은 것
 
+
 - 특정 주제에 대해 나에게 필요한 논문을 알고싶을 때는 '주제명 review'라고 검색하여 읽을 research paper를 찾을 수 있음
 - Abstract를 보며 해당 논문이 '어떤 문제'를 '어떻게' 해결 했는지를 파악하여 진지하게 읽을 paper를 추릴 수 있음
 - Conclusion의 표와 그림을 보고 실험 결과를 빠르게 훑어보며 진지하게 읽을 paper를 추릴 수 
@@ -21,18 +22,18 @@ last_modified_at: 2020-05-09 13:00:00 +0000
 # 논문 검색
 ## 1. 해외 논문
 ### 해외 논문 검색
-[Web of Science] (http://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=http%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5)
-[Pub Med] (https://www.ncbi.nlm.nih.gov/pubmed/)
-[Google Scholar] (https://scholar.google.com/)
+[Web of Science] (http://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=http%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5)<br>
+[Pub Med] (https://www.ncbi.nlm.nih.gov/pubmed/)<br>
+[Google Scholar] (https://scholar.google.com/)<br>
 
 ### 해외 논문 다운로드
-[Science Direct] (https://www.sciencedirect.com/)
-[Wiley Online Library] (https://onlinelibrary.wiley.com/)
+[Science Direct] (https://www.sciencedirect.com/)<br>
+[Wiley Online Library] (https://onlinelibrary.wiley.com/)<br>
 
 ## 2. 국내 논문
-[NDSL] (https://www.ndsl.kr/index.do?retRef=Y&source=https://www.google.com/)
-[KCI] (https://www.kci.go.kr/kciportal/main.kci)
-[RISS] (http://www.riss.kr/index.do)
+[NDSL] (https://www.ndsl.kr/index.do?retRef=Y&source=https://www.google.com/)<br>
+[KCI] (https://www.kci.go.kr/kciportal/main.kci)<br>
+[RISS] (http://www.riss.kr/index.do)<br>
 
 ## 3. Others
 [JoVE](https://www.jove.com/) : 실험 기법, 데이터 분석 방식 등을 비디오로 설명
